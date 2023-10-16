@@ -16,3 +16,19 @@ This project is based on the core concepts of Java and DBMS. I have developed an
 
 ### Software Requirements - 
 VS Code, MySQL Workbench.
+
+
+
+## Task-3 - Exam Seating Arrangement System 💺
+
+### Description - 
+This project is based on the automated seating arrangement of students for exams. It has following 3 files :-
+* Main.java
+* Student.java
+* Exam.java
+
+There are primarily two entities, the admin and the student. Both entities can log in and register to the system, check and access the system as per the approval granted to them. The admin can see all the relevant details of the students and provide the input to the system taking into consideration the need like the branch, semester, year, subject of the student. Admin will input details like the total students, available classes with the number of seats, etc. After gathering all this information the system will generate a seating arrangement based on students roll number.
+
+### Software Requirements - 
+VS Code.
+
