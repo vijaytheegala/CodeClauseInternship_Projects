@@ -19,7 +19,7 @@ VS Code, MySQL Workbench.
 
 
 
-## Task-3 - Exam Seating Arrangement System 💺
+## Task-3 - Exam Seating Arrangement System 
 
 ### Description - 
 This project is based on the automated seating arrangement of students for exams. It has following 3 files :-
